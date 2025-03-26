@@ -1,0 +1,8 @@
+developer_token: "TU_TOKEN_DESARROLLADOR"
+client_id: "NO_NECESARIO_PARA_CUENTA_DE_SERVICIO"
+client_secret: "NO_NECESARIO_PARA_CUENTA_DE_SERVICIO"
+refresh_token: "NO_NECESARIO_PARA_CUENTA_DE_SERVICIO"
+login_customer_id: "ID-ADMINISTRADOR (opcional, sin guiones)"
+linked_customer_id: "TU_ID_CLIENTE_GOOGLE_ADS (sin guiones)"
+json_key_file_path: "ruta/a/tu/archivo-de-cuenta-servicio.json"
+use_proto_plus: True
